@@ -1,4 +1,4 @@
-package com.lamnn.thrillo.managers;
+package com.lamnn.thrillio.managers;
 
 import com.lamnn.thrillio.entities.User;
 
